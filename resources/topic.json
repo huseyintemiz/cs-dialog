@@ -1,0 +1,82 @@
+{
+  "1": {
+     "başlık": "Kredi Kartı Kampanyaları",
+    "açıklama": "Taksit, chip-para, indirim ve puan kazanımı gibi kampanyalar hakkında bilgilendirme. En sık arama sebeplerindendir."
+  },
+  "2": {
+     "başlık": "Kredi Kartı Limit Artışı",
+    "açıklama": "Ön onaylı veya müşteri talebine bağlı limit güncelleme teklifleri."
+  },
+  "3": {
+     "başlık": "Kredi / İhtiyaç Kredisi Teklifi",
+    "açıklama": "Ön onaylı kredi, uygun faiz oranları ve vade seçenekleri hakkında bilgilendirme."
+  },
+  "4": {
+     "başlık": "Kredi Kartı Borç Yapılandırma",
+    "açıklama": "Borç taksitlendirme, erteleme ve ödeme kolaylıkları."
+  },
+  "5": {
+     "başlık": "Müşteri Memnuniyeti Anketi",
+    "açıklama": "Şube, çağrı merkezi veya dijital kanallarla ilgili hizmet kalitesi geri bildirimi."
+  },
+  "6": {
+     "başlık": "Kart Güvenliği / Şüpheli İşlem Bildirimi",
+    "açıklama": "Olağan dışı harcamaların teyidi amacıyla yapılan kritik ve hızlı aramalar."
+  },
+  "7": {
+     "başlık": "Dijital Bankacılık Bilgilendirmesi",
+    "açıklama": "Mobil uygulama ve internet bankacılığı özelliklerinin tanıtımı."
+  },
+  "8": {
+     "başlık": "Otomatik Ödeme Talimatı Hatırlatma / Teklifi",
+    "açıklama": "Fatura, kira veya sigorta ödemeleri için otomatik talimat bilgilendirmesi."
+  },
+  "9": {
+     "başlık": "Yeni Ürün Tanıtımı",
+    "açıklama": "Yeni kredi kartı, ek kart veya sanal kart tanıtımı."
+  },
+  "10": {
+     "başlık": "Aidat / Ücret Bilgilendirmesi",
+    "açıklama": "Kart aidatı, paket değişiklikleri ve ücret güncellemeleri."
+  },
+  "11": {
+     "başlık": "Sigorta Ürünleri",
+    "açıklama": "Hayat, sağlık, konut ve DASK sigortaları hakkında bilgilendirme."
+  },
+  "12": {
+     "başlık": "BES (Bireysel Emeklilik Sistemi)",
+    "açıklama": "BES'e giriş, katkı payı artırımı ve devlet katkısı bilgilendirmesi."
+  },
+  "13": {
+     "başlık": "Kampanya Katılım Onayı",
+    "açıklama": "SMS veya mobil uygulama üzerinden başlatılan kampanyaların teyidi."
+  },
+  "14": {
+     "başlık": "Kart Yenileme / Son Kullanım Tarihi",
+    "açıklama": "Süresi dolmak üzere olan kartlar hakkında bilgilendirme."
+  },
+  "15": {
+     "başlık": "Hesap Hareketi Bilgilendirmesi",
+    "açıklama": "Yüksek tutarlı para girişi veya çıkışı için güvenlik amaçlı teyit."
+  },
+  "16": {
+     "başlık": "Yatırım Ürünleri",
+    "açıklama": "Vadeli mevduat, fon ve döviz işlemleri hakkında bilgilendirme."
+  },
+  "17": {
+     "başlık": "KVKK / İletişim İzni Güncellemesi",
+    "açıklama": "Açık rıza ve iletişim tercihleriyle ilgili onay süreçleri."
+  },
+  "18": {
+     "başlık": "Borç Hatırlatma (Yumuşak Tonlu)",
+    "açıklama": "Gecikme oluşmadan önce yapılan bilgilendirme aramaları."
+  },
+  "19": {
+     "başlık": "Şube / Randevu Bilgilendirmesi",
+    "açıklama": "Şube taşınması, kapanışı veya randevu hatırlatmaları."
+  },
+  "20": {
+     "başlık": "Kampanya Sonu / Süre Hatırlatma",
+    "açıklama": "Kampanyaların bitiş tarihiyle ilgili 'son gün' bilgilendirmeleri."
+  }
+}

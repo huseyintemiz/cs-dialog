@@ -1,0 +1,8 @@
+Temsilci: Merhaba Muhammed Lütfü Sümer, Yaşarbank’tan arıyorum.
+Temsilci: Şube / Randevu Bilgilendirmesi kapsamında, planlanan randevunuzla ilgili kısa bir bilgilendirme yapmak istiyoruz.
+Müşteri: Merhaba, buyurun. Randevuda bir değişiklik mi oldu?
+Temsilci: Evet, randevunuzun bulunduğu şubemiz geçici olarak taşınma sürecine girdi. Bu nedenle işleminiz, aynı tarih ve saatte yeni hizmet adresimizde gerçekleştirilecektir.
+Müşteri: Anladım, yeni şubenin adresini öğrenebilir miyim?
+Temsilci: Elbette. Yeni şubemiz, mevcut şubemize yakın bir konumda yer alıyor. Dilerseniz adres bilgisini SMS olarak da paylaşabiliriz.
+Müşteri: SMS ile gönderirseniz sevinirim, teşekkür ederim.
+Temsilci: Memnuniyetle. Görüşmemiz sonrasında adres bilgisini size ileteceğiz. Başka bir sorunuz olursa bize her zaman ulaşabilirsiniz. İyi günler dileriz.

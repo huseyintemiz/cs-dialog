@@ -1,0 +1,27 @@
+Bir çağrı merkezi müşteri görüşmesi senaryosu oluştur.
+
+Senaryo Bilgileri:
+- Kurum: Diler Yatırım Bankası
+- Müşteri Adı: Çiler Dayı Sarı
+- Konu: Yeni Ürün Tanıtımı
+- Konu Açıklaması: Yeni kredi kartı, ek kart veya sanal kart tanıtımı.
+
+Kurallar ve Akış:
+1. Diyalog çağrı merkezi temsilcisi tarafından başlatılsın.
+2. Temsilci ilk cümlede müşteriyi adıyla selamlasın ve hangi kurumdan aradığını doğal bir şekilde belirtsin.
+3. Temsilci arama gerekçesini (Yeni Ürün Tanıtımı) net ve kısa şekilde açıklasın.
+4. Ardından müşteri ile temsilci arasında doğal, gerçekçi ve profesyonel bir karşılıklı konuşma geçsin.
+5. Müşteri sorular sorsun, temsilci açıklayıcı ve nazik yanıtlar versin.
+6. Diyalog 3–5 tur sürecek şekilde ilerlesin.
+7. Kapanışta çağrı merkezi temsilcisi nazikçe vedalaşsın.
+
+Stil ve Ton:
+- Resmi ama sıcak
+- Net, anlaşılır Türkçe
+- Türkiye'deki gerçek çağrı merkezi konuşma tarzına uygun
+
+Çıktı Formatı:
+Temsilci: ...
+Müşteri: ...
+Temsilci: ...
+...

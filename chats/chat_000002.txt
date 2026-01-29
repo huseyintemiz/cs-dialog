@@ -1,0 +1,14 @@
+Temsilci: Merhaba Afife Değirmenci, Yapı Kredi Bankası’ndan arıyorum.
+Temsilci: Borç Hatırlatma kapsamında, gecikme oluşmadan önce sizi bilgilendirmek için kısa bir arama gerçekleştiriyoruz.
+
+Müşteri: Merhaba, buyurun. Hangi borçla ilgili aradığınızı öğrenebilir miyim?
+
+Temsilci: Elbette. Kredi kartınıza ait yaklaşan son ödeme tarihinizle ilgili hatırlatma yapmak istedik. Henüz bir gecikme söz konusu değil, sadece bilgilendirme amaçlı arıyoruz.
+
+Müşteri: Anladım, son ödeme tarihi ne zamandı?
+
+Temsilci: Son ödeme tarihiniz ayın 5’i. Dilerseniz mobil uygulamamızdan tutar ve ödeme seçeneklerini kolayca görüntüleyebilirsiniz.
+
+Müşteri: Tamam, en kısa sürede ödeme yapacağım. Bilgi verdiğiniz için teşekkür ederim.
+
+Temsilci: Rica ederiz Afife Hanım. Herhangi bir sorunuz olursa bize dilediğiniz zaman ulaşabilirsiniz. İyi günler dileriz.

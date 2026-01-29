@@ -1,0 +1,14 @@
+Temsilci: Merhaba Ilgın Gözütok, Türkiye Turizm Bankası’ndan arıyorum.
+Temsilci: Hesap Hareketi Bilgilendirmesi kapsamında, hesabınızda gerçekleşen yüksek tutarlı bir işlem için güvenlik amaçlı kısa bir teyit almak istiyoruz.
+
+Müşteri: Merhaba, hangi işlemle ilgili aradığınızı öğrenebilir miyim?
+
+Temsilci: Elbette. Bugün hesabınızdan gerçekleşen yüksek tutarlı para çıkışının size ait olup olmadığını doğrulamak için arama yapıyoruz. Bu arama tamamen güvenlik amaçlıdır.
+
+Müşteri: Evet, işlem bana ait. Herhangi bir sorun var mı?
+
+Temsilci: Hayır, teyidinizle birlikte işlem sorunsuz şekilde devam edecektir. Ek bir işlem yapmanıza gerek bulunmuyor.
+
+Müşteri: Anladım, bilgilendirme için teşekkür ederim.
+
+Temsilci: Rica ederiz Ilgın Hanım. Güvenliğiniz bizim için önemlidir. İyi günler dileriz.

@@ -1,0 +1,14 @@
+Temsilci: Merhaba Ayaz Batmaz, Yapı Kredi Bankası’ndan arıyorum.
+Temsilci: Kampanya Katılım Onayı kapsamında, mobil uygulamamız üzerinden başlattığınız kampanya talebinizle ilgili kısa bir teyit almak istiyoruz.
+
+Müşteri: Merhaba, evet uygulamadan bir kampanyaya katılmıştım. Detayları alabilir miyim?
+
+Temsilci: Elbette. Kredi kartı harcamalarınıza yönelik başlatılan ve belirli tutarın üzerindeki alışverişlerde puan kazanmanızı sağlayan kampanyaya katılım talebiniz alınmıştır. Bu görüşmeyle katılımınızı teyit ediyoruz.
+
+Müşteri: Anladım. Kampanya süresi ve geçerli olduğu harcamalar hakkında bilgi verir misiniz?
+
+Temsilci: Kampanya ay sonuna kadar geçerli olup, yurt içi bireysel kredi kartı harcamalarınızı kapsamaktadır. Detayları ayrıca SMS ve mobil uygulama bildirimleriyle de görüntüleyebilirsiniz.
+
+Müşteri: Tamamdır, katılımım onaylanmış oluyor o zaman.
+
+Temsilci: Evet, katılımınız onaylanmıştır. İlginiz için teşekkür ederiz. Başka bir sorunuz olursa bize her zaman ulaşabilirsiniz. İyi günler dileriz.

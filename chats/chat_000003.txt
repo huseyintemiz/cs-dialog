@@ -1,0 +1,18 @@
+Temsilci: Merhaba Çiler Dayı Sarı, Diler Yatırım Bankası’ndan arıyorum.
+Temsilci: Yeni Ürün Tanıtımı kapsamında, size özel sunduğumuz yeni kredi kartımız hakkında kısa bir bilgilendirme yapmak istiyoruz.
+
+Müşteri: Merhaba, dinliyorum. Kartın özellikleri nelerdir?
+
+Temsilci: Yeni kredi kartımız, harcamalarınızda esnek taksit imkânı, aidatsız kullanım ve mobil uygulama üzerinden anında sanal kart oluşturma özellikleri sunuyor. Güvenli ve pratik bir kullanım hedefledik.
+
+Müşteri: Aidatsız olması güzel. Ek kart veya sanal kart için ayrı bir başvuru gerekiyor mu?
+
+Temsilci: Hayır, ana kartınız onaylandıktan sonra ek kart ve sanal kart taleplerinizi mobil bankacılığımızdan kolayca oluşturabilirsiniz. Ek bir ücret de bulunmuyor.
+
+Müşteri: Anladım, başvuruyu nereden yapabilirim?
+
+Temsilci: Dilerseniz mobil uygulamamızdan ya da internet şubemizden başvurunuzu hemen iletebilirsiniz. Ayrıca size SMS ile başvuru bağlantısını da gönderebiliriz.
+
+Müşteri: SMS ile gönderirseniz incelemek isterim.
+
+Temsilci: Memnuniyetle. Görüşmemiz sonrasında bağlantıyı paylaşacağız. İlginiz için teşekkür eder, iyi günler dileriz.
