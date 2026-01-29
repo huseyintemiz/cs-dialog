@@ -4,14 +4,14 @@ Türkiye'deki banka çağrı merkezi müşteri görüşmeleri için sentetik diy
 
 ## Amaç
 
-Bu proje, LLM'ler için eğitim/test verisi olarak kullanılabilecek gerçekçi çağrı merkezi senaryoları oluşturur. Her prompt, rastgele seçilen müşteri bilgileri, banka ve konu kombinasyonlarıyla benzersiz bir senaryo içerir.
+Bu proje, eğitim/test verisi olarak kullanılabilecek gerçekçi çağrı merkezi senaryoları oluşturur. Her prompt, rastgele seçilen müşteri bilgileri, banka ve konu kombinasyonlarıyla benzersiz bir senaryo içerir.
 
 ## Sentetik Diyalog Üretimi
 
 Oluşturulan promptlar, aşağıdaki LLM servisleri veya açık kaynak modellere verilerek bankacılıkla ilgili sentetik diyaloglar üretilebilir:
 
 **Ticari API Servisleri:**
-- OpenAI (GPT-4, GPT-4o, GPT-3.5-turbo)
+- OpenAI
 - Anthropic (Claude)
 - Google (Gemini)
 
@@ -54,14 +54,14 @@ python chat_prompt_generator.py -n 1000 -o my_prompts
 | Format | Olasılık | Örnek |
 |--------|----------|-------|
 | Tek isim | %80 | Ayşe |
-| Ön isim + İsim | %10 | Zeynep Ayşe |
-| İsim + Son isim | %10 | Ayşe Nur |
+| Ön isim + İsim | %10 | Zeynep Ceren |
+| İsim + Son isim | %10 | Büşra Nur |
 
 ### Erkek İsim Yapısı
 | Format | Olasılık | Örnek |
 |--------|----------|-------|
 | Tek isim | %65 | Mehmet |
-| Ön isim + İsim | %35 | Ahmet Mehmet |
+| Ön isim + İsim | %35 | Ahmet Selim |
 
 ### Soyisim Yapısı
 | Cinsiyet | Tek Soyisim | Çift Soyisim | Örnek |
@@ -105,7 +105,6 @@ Kurallar ve Akış:
 ```
 cs-dialog/
 ├── chat_prompt_generator.py  # Ana generator scripti
-├── main.py                   # Test/debug scripti
 ├── README.md
 ├── resources/                # Veri dosyaları
 │   ├── topic.json            # Konu veritabanı
